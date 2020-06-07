@@ -1,0 +1,8 @@
+CorrelationId: 5b108131-a158-4fdf-8f41-c73ddc4d670c
+Timestamp: 2020-05-26T17:53:38.6030131Z
+Creating temp folder.
+Retrieve site meta-data.
+Backing up the databases.
+  -- DotNetAppSqlDb_db
+Backing up site content and uploading to the blob...
+Uploading metadata to the blob.

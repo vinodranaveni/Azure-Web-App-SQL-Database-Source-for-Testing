@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackupDescription xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/windowsazure">
+  <Version>0</Version>
+  <Name>ProductInventoryApp_202005271325</Name>
+  <HostNames xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>productinventoryapp.azurewebsites.net</d2p1:string>
+  </HostNames>
+  <Databases />
+  <XmlConfigVersion>2014-03-01</XmlConfigVersion>
+</BackupDescription>
